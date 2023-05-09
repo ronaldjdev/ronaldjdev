@@ -8,7 +8,7 @@
         ~ Hi 👋, I'm Ronald Javier Echeverry ~
         </b>
       <br>
-        <img src="http://readme-typing-svg.herokuapp.com?font=Iosevka&weight=100&size=15&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+web+development+;enthusiast+and+a+lover+of+code." alt="Typing SVG" />
+        <img src="http://readme-typing-svg.herokuapp.com?font=Iosevka&weight=100&size=13&bold&pause=1000&center=true&vCenter=true&width=435&lines=I+am+a+web+development+;enthusiast+and+a+lover+of+code." alt="Typing SVG" />
       <br>
       <b>
         Ever since I discovered the fascinating world of programming, I have been in a constant search for knowledge and learning. Acquiring new knowledge and skills is my main motivation.
